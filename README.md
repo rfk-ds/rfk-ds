@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> >>>Rafiki D. S.<<< </h1> 
+  <h1> >>> Rafiki D. S. <<< </h1> 
   <p>Meus interesses atuais estão no desenvolvimento de back-end e segurança da informação</p>
   <p>Atualmente estou me graduando em Análise e Desenvolvimento de Sistemas na faculdade Infnet</p>
 </div>
