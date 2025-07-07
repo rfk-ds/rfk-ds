@@ -27,11 +27,9 @@ Estudante de <strong>Segurança da Informação e Defesa Cibernética</strong>.
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p><br>
 <p>
-  <strong>Ferramentas de Análise & Pentest:</strong><br><br>
+  <strong>Ferramentas de Análise:</strong><br><br>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
   <img src="https://img.shields.io/badge/Nmap-2C2D72?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
-  <img src="https://img.shields.io/badge/Metasploit-CD252A?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF7A00?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
 </p><br>
 <p>
   <strong>Infraestrutura & Versionamento:</strong><br><br>
